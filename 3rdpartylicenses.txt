@@ -423,8 +423,6 @@ MIT
 
 @angular/material/select
 
-@angular/material/menu
-
 @angular/material/tooltip
 
 @angular/material/snack-bar
@@ -656,6 +654,8 @@ SOFTWARE.
 @angular/material/tabs
 
 @angular/material/checkbox
+
+@angular/material/menu
 
 @angular/material/chips
 
